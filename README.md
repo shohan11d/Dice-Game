@@ -7,7 +7,7 @@ DICE Game made with mainly Vannila JS, Tailwind CSS, and Vite bundler.
 
 ## Installation (run or build with vite)
 ```
-git clone https://github.com/shohan11d/guess-game.git
+git clone https://github.com/shohan11d/dice-game.git
 cd guess-game
 npm i
 npm run start 
